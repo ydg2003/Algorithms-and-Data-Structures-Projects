@@ -1,0 +1,10 @@
+strict digraph G {
+rankdir=TB;
+a0 [fillcolor=gold, label=a, style=filled];
+b0 [fillcolor=gold, label=b, style=filled];
+a0 -> b0;
+d0 [fillcolor=gold, label=d, style=filled];
+b0 -> d0;
+c0 [fillcolor=gold, label=c, style=filled];
+a0 -> c0;
+}
