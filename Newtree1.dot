@@ -1,0 +1,20 @@
+strict digraph G {
+rankdir=TB;
+k0 [label=k];
+c0 [label=c];
+k0 -> c0;
+a0 [label=a];
+c0 -> a0;
+h0 [label=h];
+c0 -> h0;
+f0 [label=f];
+h0 -> f0;
+j0 [label=j];
+h0 -> j0;
+t0 [label=t];
+k0 -> t0;
+m0 [label=m];
+t0 -> m0;
+p0 [label=p];
+m0 -> p0;
+}
