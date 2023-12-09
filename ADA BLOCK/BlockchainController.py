@@ -2,7 +2,6 @@ import requests
 from pprint import pprint
 
 def verify_network_access_and_token():
-    username = 'jsgalan'
     token = '89600f38d62242540816d5dd1a7a043597e23187'
     url = 'http://jsgalan.pythonanywhere.com/chain'
 
